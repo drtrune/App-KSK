@@ -1,0 +1,6 @@
+/target
+*.db
+*.db-journal
+*.csv
+crash_log.txt
+.antigravity

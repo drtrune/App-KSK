@@ -1,13 +1,19 @@
+fn hash_pass(plain: &str) -> String {
+    let mut h = Sha256::new();
+    h.update(plain.as_bytes());
+    format!("{:x}", h.finalize())
+}
 #![windows_subsystem = "windows"]
 
 use eframe::egui;
+use sha2::{Digest, Sha256};
 use rusqlite::{params, Connection};
 use serde::{Deserialize, Serialize};
 use std::fs;
 
 const FONT_VN: &[u8] = include_bytes!("../assets/font_vn.ttf");
 
-#[derive(Deserialize, Clone)]
+#[derive(Serialize, Deserialize, Clone, Debug)]
 struct AppConfig {
     db_path: String,
     default_cskcb: String,
@@ -17,6 +23,11 @@ struct AppConfig {
 }
 
 impl AppConfig {
+    fn save(&self) -> Result<(), String> {
+        let s = toml::to_string_pretty(self).map_err(|e| e.to_string())?;
+        fs::write("config.toml", s).map_err(|e| e.to_string())
+    }
+
     fn load() -> Self {
         fs::read_to_string("config.toml")
             .ok()
@@ -29,6 +40,13 @@ impl AppConfig {
                 default_ward_code: "23992".to_string(),
             })
     }
+}
+
+#[derive(Clone)]
+struct UserRecord {
+    id: i64,
+    username: String,
+    role: String,
 }
 
 // Cấu trúc danh mục dùng chung
@@ -1524,3 +1542,4 @@ fn multi_icd(ui: &mut egui::Ui, id: &str, value: &mut String, icds: &[(String, S
     if let Some(i) = remove { sel.remove(i); }
     *value = sel.join(";");
 }
+
