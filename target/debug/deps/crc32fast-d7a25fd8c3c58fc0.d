@@ -1,0 +1,10 @@
+D:\Work\KSK\App KSK lẻ\target\debug\deps\crc32fast-d7a25fd8c3c58fc0.d: C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs
+
+D:\Work\KSK\App KSK lẻ\target\debug\deps\libcrc32fast-d7a25fd8c3c58fc0.rmeta: C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs
+
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs:

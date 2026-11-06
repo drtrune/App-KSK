@@ -1,0 +1,12 @@
+D:\Work\KSK\App KSK lẻ\target\debug\deps\writeable-b2e81d02ad225d00.d: C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\lib.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\cmp.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\concat.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\impls.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\ops.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\parts_write_adapter.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\replace.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\try_writeable.rs
+
+D:\Work\KSK\App KSK lẻ\target\debug\deps\libwriteable-b2e81d02ad225d00.rmeta: C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\lib.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\cmp.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\concat.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\impls.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\ops.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\parts_write_adapter.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\replace.rs C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\try_writeable.rs
+
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\lib.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\cmp.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\concat.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\impls.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\ops.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\parts_write_adapter.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\replace.rs:
+C:\Users\Trung\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.6.4\src\try_writeable.rs:
